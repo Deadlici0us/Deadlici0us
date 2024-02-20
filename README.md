@@ -19,7 +19,7 @@ I dwell in the Learning Lair, where each new challenge is a dragon to be tamed. 
 
 - **Databases:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
 - **API Spells:** Fluent in REST, aspiring in GraphQL
-- **DevOps Enchantments:** Docker, Git, CI/CD incantations
+- **DevOps Enchantments:** Docker, Git incantations
 
 ## 🤝 Ready to Collaborate?
 
