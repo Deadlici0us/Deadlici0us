@@ -24,7 +24,7 @@ I dwell in the Learning Lair, where every new challenge is a dragon to be tamed.
 ## 🧐 Code Connoisseur
 
 I'm not just about making it work; I'm about making it work flawlessly. A connoisseur of clean code and a zealot for performance optimization.
-## 🤝 Ready to Collaborate?
+## 🤝 Ready to Collaborate
 
 Embarking on a new quest? Seeking a versatile spellcaster? Count me in. Let's create some magic together!
 
