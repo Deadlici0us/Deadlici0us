@@ -5,7 +5,7 @@ I'm not just a back-end developer; I'm a coding chameleon. Give me a language or
 ## 🚀 Master of Many
 
 - **Languages:** Fluent in Node.js, TypeScript, JavaScript. Also conversant in Python, Java, and more.
-- **Frameworks:** Currently orchestrating the symphony with Express.js, but always ready to swing with Django, Flutter, or anything new.
+- **Frameworks:** Currently orchestrating the symphony with Express.js, but always ready to swing with anything new.
 
 ## 💡 The Learning Lair
 
@@ -18,9 +18,12 @@ I dwell in the Learning Lair, where every new challenge is a dragon to be tamed.
 ## 🚀 Tech Stacks & Sorcery
 
 - **Databases:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
-- **API Spells:** Fluent in REST, aspiring in GraphQL
+- **API Spells:** Fluent in REST
 - **DevOps Enchantments:** Docker, Git incantations
 
+## 🧐 Code Connoisseur
+
+I'm not just about making it work; I'm about making it work flawlessly. A connoisseur of clean code and a zealot for performance optimization.
 ## 🤝 Ready to Collaborate?
 
 Embarking on a new quest? Seeking a versatile spellcaster? Count me in. Let's create some magic together!
