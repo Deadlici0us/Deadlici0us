@@ -35,6 +35,6 @@ Embarking on a new quest? Seeking a versatile spellcaster? Count me in. Let's cr
 
 ## 📈 GitHub Mastery
 
-[![Anibal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aef83&show_icons=true&theme=radical)](https://github.com/aef83)
+[![Anibal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deadlici0us&show_icons=true&theme=radical)](https://github.com/Deadlici0us)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aef83&layout=compact)](https://github.com/aef83)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deadlici0us&layout=compact)](https://github.com/Deadlici0us)
