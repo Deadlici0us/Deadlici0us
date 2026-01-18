@@ -1,37 +1,22 @@
-# Hey, I'm Anibal 👋
+# 👋 Hey, I'm Anibal
 
-I'm not just a back-end developer; I'm a coding chameleon. Give me a language or framework, and I'll dance with it. Currently twirling through the realms of Node.js, Express, TypeScript, and JavaScript.
+I am a versatile Software Engineer focused on building scalable, high-performance systems. With a strong foundation in Node.js and TypeScript, I specialize in creating clean, maintainable architectures that solve complex problems. I thrive in environments that require rapid adaptation to new technologies and architectural patterns.
 
-## 🚀 Master of Many
+## 🚀 Technical Expertise
 
-- **Languages:** Fluent in Node.js, TypeScript, JavaScript. Also conversant in Python, Java, and more.
-- **Frameworks:** Currently orchestrating the symphony with Express.js, but always ready to swing with anything new.
+- **Languages**	TypeScript, JavaScript (ES6+), Node.js, Python, Java
+- **Frameworks**	Express.js, React
+- **Databases**	PostgreSQL, MySQL, MongoDB
+- **DevOps & CI/CD**	GitHub Actions, Ansible, Docker, Git
+- **Methodologies**	Clean Code, SOLID Principles, Performance Optimization
 
-## 💡 The Learning Lair
+## 🧐 Engineering Philosophy
 
-I dwell in the Learning Lair, where every new challenge is a dragon to be tamed. Here are the quests on my horizon:
+I am a strong advocate for Clean Code and scalability. My approach to development centers on writing code that is not only functional but also performant and easy to maintain. I prioritize understanding the "why" behind the tool, allowing me to pivot between stacks with precision and speed.
 
-- 🐍 Embarking on an adventure with React.js for a pet project.
-- 🚀 Setting out to explore Rust for building a networking tool.
-- ☕️ Preparing to dive into Java as I chart a backend journey.
-
-## 🚀 Tech Stacks & Sorcery
-
-- **Databases:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
-- **API Spells:** Fluent in REST
-- **DevOps Enchantments:** Docker, Git incantations
-
-## 🧐 Code Connoisseur
-
-I'm not just about making it work; I'm about making it work flawlessly. A connoisseur of clean code and a zealot for performance optimization.
 ## 🤝 Ready to Collaborate
 
-Embarking on a new quest? Seeking a versatile spellcaster? Count me in. Let's create some magic together!
-
-## 🚀 Fun Side Quests
-
-- I once wrote a chatbot in Shakespearean English. 🎭
-- My favorite debugger is my cat, who never fails to distract me at crucial moments.
+I am always open to collaborating on innovative projects or discussing software architecture. If you're looking for a developer who can bridge the gap between "it works" and "it's optimized," let’s talk.
 
 ## 📈 GitHub Mastery
 
