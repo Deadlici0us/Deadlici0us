@@ -4,11 +4,11 @@ I am a versatile Software Engineer focused on building scalable, high-performanc
 
 ## 🚀 Technical Expertise
 
-- **Languages**	TypeScript, JavaScript (ES6+), Node.js, Python, Java
-- **Frameworks**	Express.js, React
-- **Databases**	PostgreSQL, MySQL, MongoDB
-- **DevOps & CI/CD**	GitHub Actions, Ansible, Docker, Git
-- **Methodologies**	Clean Code, SOLID Principles, Performance Optimization
+- **Languages:**	TypeScript, JavaScript (ES6+), Node.js, Python, Java
+- **Frameworks:**	Express.js, React
+- **Databases:**	PostgreSQL, MySQL, MongoDB
+- **DevOps & CI/CD:**	GitHub Actions, Ansible, Docker, Git
+- **Methodologies:**	Clean Code, SOLID Principles, Performance Optimization
 
 ## 🧐 Engineering Philosophy
 
