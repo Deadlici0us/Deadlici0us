@@ -20,8 +20,7 @@ I am always open to collaborating on innovative projects or discussing software 
 
 ## 📈 GitHub Mastery
 
-# General Stats
 ![Anibal's GitHub Stats](./profile/stats.svg)
 
-# Top Languages
+
 ![Top Langs](./profile/top-langs.svg)
