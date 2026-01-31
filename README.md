@@ -23,5 +23,5 @@ I am always open to collaborating on innovative projects or discussing software 
 # General Stats
 ![Anibal's GitHub Stats](./profile/stats.svg)
 
-# Top Languages (Assembly optimized)
+# Top Languages
 ![Top Langs](./profile/top-langs.svg)
