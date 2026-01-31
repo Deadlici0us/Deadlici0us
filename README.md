@@ -20,6 +20,6 @@ I am always open to collaborating on innovative projects or discussing software 
 
 ## 📈 GitHub Mastery
 
-[![Anibal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deadlici0us&show_icons=true&theme=radical)](https://github.com/Deadlici0us)
+[![Anibal's GitHub Stats](./profile/stats.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deadlici0us&layout=compact)](https://github.com/Deadlici0us)
