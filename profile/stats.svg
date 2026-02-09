@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Deadlici0us' GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 1063, Total PRs: 3, Total Issues: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 1057, Total PRs: 3, Total Issues: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 199.38213765550805;
+        stroke-dashoffset: 199.4190152970206;
       }
     }
   
