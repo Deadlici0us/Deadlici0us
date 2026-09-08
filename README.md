@@ -1,6 +1,6 @@
 # Hey, I'm Anibal
 
-Computer Science graduate working across the stack: Express/TypeScript APIs on the surface, Rust and x64 Assembly underneath. I build self-hosted systems end to end — API, container image, VPS deployment — and measure the parts that matter.
+Computer Science graduate working across the stack: Express/TypeScript APIs on the surface, Java, Rust and x64 Assembly underneath. I build self-hosted systems end to end — API, container image, VPS deployment — and measure the parts that matter.
 
 ## Stack
 
