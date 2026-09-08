@@ -5,8 +5,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
@@ -14,20 +12,27 @@ jobs:
 
       # Generate General Stats Card
       - name: Generate Stats Card
-        uses: lowlighter/metrics@latest
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          filename: profile/stats.svg
+          card: stats
+          options: 'username=Deadlici0us&show_icons=true&theme=radical&count_private=true'
+          path: profile/stats.svg
           token: ${{ secrets.PAT_TOKEN }}
-          base: header, activity, community, repositories, metadata
 
-      # Generate Top Languages Card
+      # Generate Top Languages Card (Optimized for Assembly)
       - name: Generate Top Languages Card
-        uses: lowlighter/metrics@latest
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          filename: profile/top-langs.svg
+          card: top-langs
+          options: 'username=Deadlici0us&layout=compact&theme=radical&count_private=true&count_weight=1&langs_count=10'
+          path: profile/top-langs.svg
           token: ${{ secrets.PAT_TOKEN }}
-          base: header
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_sections: most-used
+
+      # Commit and Push the new SVGs back to your repo
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update profile stats cards" || exit 0
+          git push
