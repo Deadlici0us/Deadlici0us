@@ -47,8 +47,3 @@ Computer Science graduate working across the stack: Express/TypeScript APIs on t
 | [BArboleda-backend](https://github.com/Deadlici0us/BArboleda-backend) | Read-only geospatial API over the Buenos Aires tree inventory ([live](https://api.anibal-flores.com/BArboleda/swagger-ui/index.html)) | Spring Boot 3.3 on Java 21; fixed 1000m bucket over a MongoDB `2dsphere` index with a fail-open GZIP Redis cache |
 | [Quadtree-Collision](https://github.com/Deadlici0us/Quadtree-Collision) | Boids flocking and elastic-collision physics in the browser ([live demo](https://deadlici0us.github.io/Quadtree-Collision/)) | Rust compiled to WebAssembly; per-frame-rebuilt dynamic QuadTree, up to 9.7x faster than brute force at 10k particles |
 
-## GitHub Stats
-
-[![Anibal's GitHub Stats](./profile/stats.svg)
-
-[![Top Langs](./profile/top-langs.svg)
