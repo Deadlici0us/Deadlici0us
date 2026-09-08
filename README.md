@@ -49,6 +49,6 @@ Computer Science graduate working across the stack: Express/TypeScript APIs on t
 
 ## GitHub Stats
 
-[![Anibal's GitHub Stats](/Deadlici0us/Deadlici0us/raw/master/profile/stats.svg)](/Deadlici0us/Deadlici0us/blob/master/profile/stats.svg)
+[![Anibal's GitHub Stats](./profile/stats.svg)
 
-[![Top Langs](/Deadlici0us/Deadlici0us/raw/master/profile/top-langs.svg)](/Deadlici0us/Deadlici0us/blob/master/profile/top-langs.svg)
+[![Top Langs](./profile/top-langs.svg)
